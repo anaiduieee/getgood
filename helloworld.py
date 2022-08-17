@@ -1,1 +1,1 @@
-do something!
+print("This line will be printed.")
